@@ -1,0 +1,12 @@
+{
+  "name": "aman-sharma-portfolio",
+  "version": "1.0.0",
+  "description": "A modern dark-mode portfolio website for Aman Sharma.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
